@@ -1,5 +1,3 @@
-#Author: Josh Allan 30-04-2019
-
 import pandas as pd
 import random
 import csv
